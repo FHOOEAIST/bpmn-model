@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.omg.spec.bpmn.model"},{"l":"science.aist.bpmn.model"},{"l":"science.aist.bpmn.model.impl"}]
