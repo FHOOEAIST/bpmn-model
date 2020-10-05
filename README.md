@@ -54,4 +54,4 @@ file, You can obtain one at https://mozilla.org/MPL/2.0/.
 ## Research
 
 If you are going to use this project as part of a research paper, we would ask you to reference this project by citing
-it. DOI: TBD
+it. [![DOI](https://zenodo.org/badge/298491168.svg)](https://zenodo.org/badge/latestdoi/298491168)
